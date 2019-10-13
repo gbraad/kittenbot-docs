@@ -12,7 +12,7 @@
 
 Bridge是喵家推出一个款D51高性能主控板，它具有UNO的外形与引脚排布，板子尾部还带有类似Microbit的金手指，可插在Microbit相关的扩展板（Robotbit、IObit）进行使用。
 
-软件上，它可以在Aruduino IED、Makecode Arcade平台、Makecode Maker平台上使用，支持图形化编程与MicroPython编程，因此取名为Bridge(桥)，连接各个平台的桥梁。
+软件上，它可以在Arduino IDE、Makecode Arcade平台、Makecode Maker平台上使用，支持图形化编程与MicroPython编程，因此取名为Bridge(桥)，连接各个平台的桥梁。
 
 
 
@@ -128,6 +128,6 @@ http://maker.kittenbot.cn/
 
 待续~
 
-心急的用户可以参考Arduin的D51板子使用
+心急的用户可以参考Arduino的D51板子使用
 
 https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/setup
